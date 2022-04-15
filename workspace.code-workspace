@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../snap/janus-gateway/current/opt/janus/share/janus/demos"
+		},
+		{
+			"path": "../../../../var/snap/janus-gateway/common/etc"
+		}
+	],
+	"settings": {}
+}
